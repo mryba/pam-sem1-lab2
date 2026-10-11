@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LinearLayout i wybór koloru</string>
+    <string name="screen_title">Formularz LinearLayout</string>
+    <string name="name_label">Imię</string>
+    <string name="name_hint">Imię</string>
+    <string name="surname_hint">Nazwisko</string>
+    <string name="age_hint">Wiek</string>
+    <string name="category_title">Wybierz kategorię</string>
+    <string name="category_first">Student</string>
+    <string name="category_second">Studentka</string>
+    <string name="show_data">Pokaż dane</string>
+    <string name="color_title">Składowe koloru tła</string>
+    <string name="red">Czerwony</string>
+    <string name="green">Zielony</string>
+    <string name="blue">Niebieski</string>
+    <string name="generate_color">Generuj kolor tła</string>
+    <string name="text_color_title">Kolor tekstu etykiety</string>
+    <string name="color_label">KOLOR</string>
+    <string name="data_message">Imię: %1$s\nNazwisko: %2$s\nWiek: %3$s\nKategoria: %4$s</string>
+    <string name="no_category">Nie wybrano</string>
+    <string name="no_color">Nie wybrano składowej koloru</string>
+</resources>
